@@ -1,0 +1,15 @@
+#
+======🔥TEST TV🔥======
+
+
+#EXTINF:-1 group-title="🔥TEST TV" tvg-logo="https://i.imgur.com/z2ClyuB.png",WELCOME 
+https://bit.ly/WelcomeToDonzTelevision
+
+####################################
+#EXTINF:-1 group-title="🔥TEST TV2" tvg-logo="https://i.imgur.com/zUrRHHZ.png",KOPI SUSU
+https://bit.ly/DonzTelevisionQRcode
+  
+#EXTINF:-1 group-title="🔥TEST TV3" tvg-logo="https://i.imgur.com/AlQPziN.png",INFO GROUP
+https://bit.ly/GabungGroupDonzTv
+  
+#############
